@@ -20,7 +20,7 @@ The goal of this assignment is to query APIs to find hotels in a random sampling
     ![Temperature vs Latitude (by hemisphere)](WeatherPy/output/temp_lat_north.png)
     ![Temperature vs Latitude (by hemisphere)](WeatherPy/output/temp_lat_south.png)
 
-    *Guess it's colder up north in mid-autumn*
+    *(Guess it's colder up north in mid-autumn)*
 
 - Save all figures to PNG files, and write the DataFrame to a CSV file
 
@@ -37,4 +37,4 @@ At the end of all that, you get something like this:
 
 ![Resulting Map](VacationPy/output/map_screenshot.png)
 
-*Maybe I should take a trip to Arabia?*
+*(Maybe I should take a trip to Arabia?)*
