@@ -13,10 +13,14 @@ The goal of this assignment is to query APIs to find hotels in a random sampling
 
     ![Winds vs Latitude (global)](WeatherPy/output/wind_lat_global.png)
 
+    *(Looks pretty windy up by the poles)*
+
 - Do the same thing, but this time split data by hemisphere and make 1 for each hemisphere
 
     ![Temperature vs Latitude (by hemisphere)](WeatherPy/output/temp_lat_north.png)
     ![Temperature vs Latitude (by hemisphere)](WeatherPy/output/temp_lat_south.png)
+
+    *Guess it's colder up north in mid-autumn*
 
 - Save all figures to PNG files, and write the DataFrame to a CSV file
 
@@ -26,8 +30,11 @@ The goal of this assignment is to query APIs to find hotels in a random sampling
 - Get the closest hotels to each city from Google Places
 - Create a Google Maps figure
 - Add markers for all the hotels returned
+- Make it so little info boxes pop up when you click on the markers
 - Add a heatmap using the humidity values from the original unfiltered DataFrame
 
 At the end of all that, you get something like this:
 
 ![Resulting Map](VacationPy/output/map_screenshot.png)
+
+*Maybe I should take a trip to Arabia?*
